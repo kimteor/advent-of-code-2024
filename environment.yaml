@@ -1,0 +1,7 @@
+name: aoc-env
+channels:
+  - defaults
+dependencies:
+  - python=3.10.16
+  - pip:
+    - numpy==2.2.1
